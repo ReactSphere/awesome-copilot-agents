@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="160" viewBox="0 0 780 160" role="img" aria-label="Awesome Copilot Agents">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1f2937"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="160" rx="18" fill="url(#bg)"/>
+  <rect x="18" y="18" width="744" height="124" rx="14" fill="#0b1220" opacity="0.55"/>
+  <text x="48" y="78" fill="#ffffff" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial" font-size="42" font-weight="700">Awesome Copilot Agents</text>
+  <text x="48" y="116" fill="#cbd5e1" font-family="ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica Neue,Arial" font-size="20">Instructions • Prompts • Skills • MCPs • Custom Agents</text>
+</svg>
