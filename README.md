@@ -63,6 +63,7 @@ Instructions provide Copilot with repository-specific context to improve suggest
 - [GitHub Actions](https://github.com/ReactSphere/awesome-copilot-agents/tree/main/instructions/tools/github-actions/github-actions.instructions.md) - Workflow conventions.
 - [Terraform](https://github.com/ReactSphere/awesome-copilot-agents/tree/main/instructions/tools/infra-as-code/terraform/terraform.instructions.md) - IaC conventions and safety.
 - [Playwright](https://github.com/ReactSphere/awesome-copilot-agents/tree/main/instructions/tools/testing/playwright/playwright.instructions.md) - Browser test stability.
+- [NotFair](https://notfair.co) - Google Ads MCP server. Connect Claude and AI agents to a Google Ads account: diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API. Source: github.com/nowork-studio/toprank. Free tier available.
 
 ### Workflows
 
